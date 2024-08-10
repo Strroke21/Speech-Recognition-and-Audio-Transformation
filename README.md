@@ -22,7 +22,7 @@ This project leverages the YOLOv8n model for real-time object detection, integra
 
 2. **Install the required Python libraries:**
     ```bash
-    pip install opencv-python numpy pyttsx3 SpeechRecognition ultralytics
+    pip3 install opencv-python numpy pyttsx3 SpeechRecognition ultralytics
     ```
 
 3. **Yolo v8 model will be installed in the folder automatically
